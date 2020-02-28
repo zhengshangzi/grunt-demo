@@ -1,0 +1,18 @@
+{
+  "name": "entropy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entropy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "grunt": "^1.0.4",
+    "istanbul": "^0.4.5",
+    "mocha": "^7.1.0"
+  }
+}
